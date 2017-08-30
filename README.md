@@ -1,1 +1,1 @@
-Basic HTML Page
+Basic, Static HTML Page
